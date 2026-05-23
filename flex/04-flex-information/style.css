@@ -24,3 +24,24 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Solution */
+
+.info_page {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.plant_card {
+
+  max-width: 200px;
+}
